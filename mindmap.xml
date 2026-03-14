@@ -1,0 +1,25 @@
+<mxfile>
+  <diagram name="MindMap">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+    <mxCell id="root" value="MindMap" style="ellipse;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=15;" vertex="1" parent="1"><mxGeometry x="100" y="300" width="150" height="80" as="geometry"/></mxCell>
+    <mxCell id="node_1" value="CLEAN-UP" style="ellipse;fillColor=#E1D5E7;strokeColor=#9673a6;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="300" y="50" width="150" height="50" as="geometry"/></mxCell>
+    <mxCell id="node_2" value="COMPUTER" style="shape=hexagon;fillColor=#FFE6CC;strokeColor=#d79b00;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="500" y="50" width="150" height="50" as="geometry"/></mxCell>
+    <mxCell id="node_3" value="CLOUD" style="rounded=0;fillColor=#D5E8D4;strokeColor=#82b366;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="700" y="50" width="150" height="50" as="geometry"/></mxCell>
+    <mxCell id="node_4" value="LOCAL" style="rounded=0;fillColor=#D5E8D4;strokeColor=#82b366;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="700" y="130" width="150" height="50" as="geometry"/></mxCell>
+    <mxCell id="node_5" value="HOME" style="shape=hexagon;fillColor=#FFE6CC;strokeColor=#d79b00;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="500" y="130" width="150" height="50" as="geometry"/></mxCell>
+    <mxCell id="node_6" value="UP" style="rounded=0;fillColor=#D5E8D4;strokeColor=#82b366;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="700" y="210" width="150" height="50" as="geometry"/></mxCell>
+    <mxCell id="node_7" value="DOWN" style="rounded=0;fillColor=#D5E8D4;strokeColor=#82b366;fontStyle=1;fontSize=13;" vertex="1" parent="1"><mxGeometry x="700" y="290" width="150" height="50" as="geometry"/></mxCell>
+    <mxCell id="edge_root_node_1" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="root" target="node_1" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+    <mxCell id="edge_0" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="node_1" target="node_2" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+    <mxCell id="edge_1" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="node_2" target="node_3" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+    <mxCell id="edge_2" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="node_2" target="node_4" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+    <mxCell id="edge_3" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="node_1" target="node_5" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+    <mxCell id="edge_4" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="node_5" target="node_6" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+    <mxCell id="edge_5" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="node_5" target="node_7" parent="1"><mxGeometry relative="1" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
